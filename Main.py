@@ -1,3 +1,4 @@
+
 import Getting_Scores
 import Gathering_deatails
 import Getting_percentage
@@ -94,3 +95,13 @@ def get_Stats():
 
 
 get_Stats()
+#print(Methods10)
+#print(General10)
+
+
+
+
+
+
+
+
