@@ -1,0 +1,12 @@
+year,number,maths,q1A,q2A,q3A,score
+10,4,advanced,correct,correct,correct,3/3
+10,3,advanced,correct,incorrect,incorrect,1/3
+10,2,general,incorrect,incorrect,incorrect,0/3
+10,1,advanced,correct,correct,correct,3/3
+10,11,advanced,correct,correct,incorrect,2/3
+10,10,methods,incorrect,incorrect,incorrect,0/3
+10,9,methods,correct,correct,incorrect,2/3
+10,8,methods,correct,correct,incorrect,2/3
+10,7,general,correct,incorrect,incorrect,1/3
+10,6,general,incorrect,incorrect,incorrect,0/3
+10,5,methods,incorrect,correct,incorrect,1/3
